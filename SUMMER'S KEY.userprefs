@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scare.cs">
+    <Files>
+      <File FileName="Assets\button.cs" Line="11" Column="31" />
+      <File FileName="Assets\back.cs" Line="11" Column="3" />
+      <File FileName="Assets\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Pickup.cs" Line="9" Column="20" />
+      <File FileName="Assets\takecoin.cs" Line="8" Column="21" />
+      <File FileName="Assets\COINS.cs" Line="22" Column="22" />
+      <File FileName="Assets\Opendoor.cs" Line="33" Column="15" />
+      <File FileName="Assets\openkey.cs" Line="10" Column="20" />
+      <File FileName="Assets\closedoor.cs" Line="10" Column="28" />
+      <File FileName="Assets\scare.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
